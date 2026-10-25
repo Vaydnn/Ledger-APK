@@ -1,6 +1,6 @@
 {
-    "version":  "3.5.3",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.5.3.apk",
-    "notes":  "Save backup file saves a real file to Downloads again. Fixes: a missed paycheck, due dates in short months, Reconcile matching. No data changes.",
+    "version":  "3.6.0",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.6.0.apk",
+    "notes":  "Redesigned More tab (search, live tiles, grouped lists) and a new app icon. Erase-all-data moved to Settings. No data changes.",
     "released":  "2026-10-25"
 }
