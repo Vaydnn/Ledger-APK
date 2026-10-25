@@ -1,6 +1,6 @@
 {
-    "version":  "3.5.0",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.5.0.apk",
-    "notes":  "More bill types (yearly, quarterly, every N months, last day, payments left, skip a month) and purchase alerts: Settings \u003e Card alerts offers a Log notification for Robinhood purchases.",
-    "released":  "2026-10-24"
+    "version":  "3.5.1",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.5.1.apk",
+    "notes":  "Card alerts now watch the Robinhood Gold Card app (com.robinhood.money), so purchase alerts are picked up.",
+    "released":  "2026-10-25"
 }
