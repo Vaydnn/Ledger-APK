@@ -1,6 +1,6 @@
 {
-    "version":  "3.4.1",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.4.1.apk",
-    "notes":  "Fixes the update Download button (and Undo / Share-now buttons in pop-up messages) that did nothing when tapped.",
+    "version":  "3.4.2",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.4.2.apk",
+    "notes":  "Test release: identical to 3.4.1, to check that the in-app Download button works.",
     "released":  "2026-10-24"
 }
