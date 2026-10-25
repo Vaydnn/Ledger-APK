@@ -1,6 +1,6 @@
 {
-    "version":  "3.4.2",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.4.2.apk",
-    "notes":  "Test release: identical to 3.4.1, to check that the in-app Download button works.",
+    "version":  "3.5.0",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.5.0.apk",
+    "notes":  "More bill types (yearly, quarterly, every N months, last day, payments left, skip a month) and purchase alerts: Settings \u003e Card alerts offers a Log notification for Robinhood purchases.",
     "released":  "2026-10-24"
 }
