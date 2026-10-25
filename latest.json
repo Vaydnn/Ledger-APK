@@ -1,6 +1,6 @@
 {
-    "version":  "3.4.0",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.4.0.apk",
-    "notes":  "Weekly automatic backup to Downloads/Ledger backups (Settings), layout fixes on the unfolded Fold and narrow windows, comma-decimal amounts, duplicate warning on the phone, brighter secondary text.",
+    "version":  "3.4.1",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.4.1.apk",
+    "notes":  "Fixes the update Download button (and Undo / Share-now buttons in pop-up messages) that did nothing when tapped.",
     "released":  "2026-10-24"
 }
