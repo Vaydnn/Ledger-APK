@@ -1,6 +1,6 @@
 {
-    "version":  "3.6.0",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.6.0.apk",
-    "notes":  "Redesigned More tab (search, live tiles, grouped lists) and a new app icon. Erase-all-data moved to Settings. No data changes.",
-    "released":  "2026-10-25"
+    "version":  "3.7.0",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.7.0.apk",
+    "notes":  "Citi card alerts: reads Citi Mobile purchase alerts and offers Log $X? with a cleaned-up merchant. If Android hides the alert text, Settings \u003e Card alerts explains the one-time fix.",
+    "released":  "2026-10-26"
 }
