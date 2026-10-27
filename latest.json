@@ -1,6 +1,6 @@
 {
-    "version":  "3.7.0",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.7.0.apk",
-    "notes":  "Citi card alerts: reads Citi Mobile purchase alerts and offers Log $X? with a cleaned-up merchant. If Android hides the alert text, Settings \u003e Card alerts explains the one-time fix.",
-    "released":  "2026-10-26"
+    "version":  "3.8.0",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.8.0.apk",
+    "notes":  "Flip months inside the Monthly breakdown (a stepper at the top), and Robinhood card alerts from another cardholder are recognised",
+    "released":  "2026-10-27"
 }
