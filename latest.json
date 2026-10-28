@@ -1,6 +1,6 @@
 {
-    "version":  "3.8.0",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.8.0.apk",
-    "notes":  "Flip months inside the Monthly breakdown (a stepper at the top), and Robinhood card alerts from another cardholder are recognised",
-    "released":  "2026-10-27"
+    "version":  "3.9.0",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.9.0.apk",
+    "notes":  "Category breakdown now has a Year switch: totals for any category over a whole year or year to date, with averages and a month-by-month strip",
+    "released":  "2026-10-28"
 }
