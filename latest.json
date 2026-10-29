@@ -1,6 +1,6 @@
 {
-    "version":  "3.9.0",
-    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.9.0.apk",
-    "notes":  "Category breakdown now has a Year switch: totals for any category over a whole year or year to date, with averages and a month-by-month strip",
+    "version":  "3.10.0",
+    "url":  "https://vaydnn.github.io/Ledger-APK/ledger-3.10.0.apk",
+    "notes":  "Real available can now count your cards at the statement due: a new Count cards at switch in the gear on the Home and Bills cards",
     "released":  "2026-10-28"
 }
